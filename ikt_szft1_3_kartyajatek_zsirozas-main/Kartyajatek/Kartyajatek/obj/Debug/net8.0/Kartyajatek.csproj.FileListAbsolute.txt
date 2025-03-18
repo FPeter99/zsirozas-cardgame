@@ -1,0 +1,14 @@
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\bin\Debug\net8.0\Kartyajatek.exe
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\bin\Debug\net8.0\Kartyajatek.deps.json
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\bin\Debug\net8.0\Kartyajatek.runtimeconfig.json
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\bin\Debug\net8.0\Kartyajatek.dll
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\bin\Debug\net8.0\Kartyajatek.pdb
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\obj\Debug\net8.0\Kartyajatek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\obj\Debug\net8.0\Kartyajatek.AssemblyInfoInputs.cache
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\obj\Debug\net8.0\Kartyajatek.AssemblyInfo.cs
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\obj\Debug\net8.0\Kartyajatek.csproj.CoreCompileInputs.cache
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\obj\Debug\net8.0\Kartyajatek.dll
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\obj\Debug\net8.0\refint\Kartyajatek.dll
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\obj\Debug\net8.0\Kartyajatek.pdb
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\obj\Debug\net8.0\Kartyajatek.genruntimeconfig.cache
+C:\Users\Suli\Desktop\ikt_szft1_3_kartyajatek_zsirozas-main\Kartyajatek\Kartyajatek\obj\Debug\net8.0\ref\Kartyajatek.dll
